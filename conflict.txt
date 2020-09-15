@@ -1,2 +1,2 @@
 confilct occur
-feature1.5 + other feature +
+feature1.5

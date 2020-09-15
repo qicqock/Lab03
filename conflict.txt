@@ -1,2 +1,2 @@
 confilct occur
-feature1.5
+feature1.5 + 2.0 + sdfafsfsfsfa

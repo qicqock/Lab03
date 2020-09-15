@@ -1,0 +1,2 @@
+confilct occur
+feature1.0
